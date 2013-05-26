@@ -3,11 +3,12 @@ layout: index
 title: Anthony F Cannistra | Projects
 projects:
   - name: "<img src='img/home.png' width='20px' height='20px'/> This website!"
-    language: "HTML/CSS/<a href='http://jekyllrb.com'>Jekyll</a>"
+    language: HTML/CSS/[Jekyll](http://jekyllrb.com)
     purpose: |
-      To create a simple personal website that can be easily and quickly updated. I was looking for a nice way to be able to write my site in <a href='http://daringfireball.net/projects/markdown/'>markdown</a>.
+      To create a simple personal website that can be easily and quickly updated. I was looking for a nice way to be able to write my site in [markdown](http://daringfireball.net/projects/markdown/).
     outcome: | 
-      The site is very much a work in progress, but the implementation is quite enjoyable to work with. My desire for a clean Markdown-based site and a database-free content management system brought me to <a href="http://pages.github.com">GitHub Pages</a>. GitHub runs the markdown through Jekyll, which supports the <a href="https://github.com/Shopify/liquid/wiki/Liquid-for-Designers">Liquid template engine</a>, which is small and simple to use. All of the projects on this page, for example, are encoded in <a href="http://www.yaml.org/spec/1.2/spec.html">YAML</a> format, parsed by Liquid into the tables you see.
+      The site is very much a work in progress, but the implementation is quite enjoyable to work with. My desire for a clean Markdown-based site and a database-free content management system brought me to [GitHub Pages](http://pages.github.com). GitHub runs the markdown through Jekyll, which supports the [Liquid Template Engine](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers), which is small and simple to use. All of the projects on this page, for example, are encoded in [YAML](http://www.yaml.org/spec/1.2/spec.html) format, parsed by Liquid into the tables you see.
+    code: available on my github page ( @acannistra )
   - name: "<img src='img/school.png' width='20px' height='20px'/> COMP105: Standard ML Type Inference"
     language: "Standard ML"
     purpose: |
@@ -37,15 +38,15 @@ projects:
 <table>
 	<tr>
 		<td><b>Language:</b></td>
-		<td>{{ proj.language }}</td>
+		<td>{{ proj.language | markdownify }}</td>
 	</tr>
 	<tr>
 		<td><b>Purpose:</b></td>
-		<td>{{ proj.purpose}}</td>
+		<td>{{ proj.purpose | markdownify }}</td>
 	</tr>
 	<tr>
 		<td><b>Outcome:</b></td>
-		<td>{{ proj.outcome }}</td>
+		<td>{{ proj.outcome | markdownify }}</td>
 	</tr>
 	<tr>
 		<td><b>Code:</b></td>
