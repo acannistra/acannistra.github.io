@@ -3,11 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Anthony F. Cannistra by acannistra</title>
+    <title>{{ page.title }}</title>
 
     <link rel="stylesheet" href="stylesheets/styles.css">
     <link rel="stylesheet" href="stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -17,6 +19,8 @@
       header h3  { color: #494949; margin-top: 10px; margin-bottom: 5px;}
       header {zoom: 1.2;}
       header p.view {margin-bottom: 10px;}
+      footer {width: 100%;}
+      footer p { margin-top: 0px; margin-bottom: 0px;}
 
 
     </style>
@@ -25,12 +29,12 @@
     <div class="wrapper">
       <header>
         <h1>
-          <a href="#">anthony f. cannistra</a>
+          <a href="{{ site.root }}">anthony f. cannistra</a>
         </h1>
 
         <h3>quick facts:</h3>
         <p class="view"> <a href="http://resume.anthonycannistra.com">My Resume <small>in case you'd like to hire me</small></a></p>
-        <p class="view"> <a href="/">Projects I've Worked On <small>I think they're pretty cool</small></a>
+        <p class="view"> <a href="projects.html">Projects I've Worked On <small>I think they're pretty cool</small></a>
 
         <h3>lets connect:</h3>
         <p class="view">
@@ -45,20 +49,29 @@
           <small>because friends are cool</small>
         </p>
         <p class="view">
+          <a href="http://www.goodreads.com/tonycannistra">
+            Goodreads
+            <small>because books are cool</small>
+          </a>
+        </p>
+        <p class="view">
+          <a href="http://www.delicious.com/tony.cannistra">
+            Delicious
+            <small>because bookmarks are cool</small>
+          </a>
+        </p>
+        <p class="view">
           <a href="http://blog.anthonycannistra.com">
             Tumblr
             <small>for no good reason, really</small>
           </a>
         </p>
-
-
-
       </header>
       <section>
         {{content}}
       </section>
       <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>.</p> <p> Generated {{ site.time | date_to_string }} from {{ page.path }}. </small></p>
       </footer>
     </div>
     <script src="javascripts/scale.fix.js"></script>
