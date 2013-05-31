@@ -1,5 +1,5 @@
 # Anthony Cannistra's Personal Website
-## [http://acannistra.github.io](http://www.anthonycannistra.io)
+[http://acannistra.github.io](http://www.anthonycannistra.io)
 
 Hosted by GitHub Pages, theme by @orderedlist.
 
