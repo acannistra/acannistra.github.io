@@ -3,8 +3,8 @@ layout: index
 title: Anthony F. Cannistra
 ---
 
-<img src="http://distilleryimage6.s3.amazonaws.com/68a12332903611e2816522000a9e48f9_7.jpg" style="border: 1px solid #; -webkit-border-radius: 13px; -moz-border-radius: 13px; border-radius: 13px;" />
-<small><a href="http://instagram.com/madenottaken">Seals in La Jolla, CA </a><style>.ig-b- { display: inline-block; }
+<img src="http://distilleryimage4.ak.instagram.com/df83409cf71b11e2b30422000aaa0585_7.jpg" style="border: 1px solid #; -webkit-border-radius: 13px; -moz-border-radius: 13px; border-radius: 13px;" />
+<small><a href="http://instagram.com/madenottaken">Sunset in Woods Hole, MA</a><style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
 .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
 .ig-b-16 { width: 16px; height: 16px; background: url(//badges.instagram.com/static/images/ig-badge-sprite-16.png) no-repeat 0 0; }
