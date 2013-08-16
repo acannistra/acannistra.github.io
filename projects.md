@@ -2,7 +2,16 @@
 layout: index
 title: Anthony F Cannistra | Projects
 projects:
-  - name: "<img src='img/home.png' width='20px' height='20px'/> TuftsText / CollegiateText"
+  - name: |
+     <i class='icon-briefcase'></i> Protein Function Prediction Research
+    language: Python
+    purpose: |
+     My first foray into research combining my interests in Biology and Computer Science, this project is an ongoing attempt to improve the accuracy of computational protein function prediction based on work Tufts University computer science Profs. [Ben Hescott](http://www.cs.tufts.edu/~hescott) and [Lenore Cowen](http://www.cs.tufts.edu/~cowen) have been doing over the past year. Hescott and Cowen have developed a protein-protein interaction network distance metric called the Diffusion State Distance (paper forthcoming, PLOS ONE Fall 2013). The DSD metric has produced good results when operating on networks of *physical* protein-protein interaction data. My charge for the summer, together with Tufts senior Inbar Fried, was to integrate *genetic* protein-protein interaction data. 
+    outcome: | 
+     Since this research has not yet been published, I'm not at liberty to discuss results. However, they are quite interesting. Look for a potential presentation at [RECOMB 2014](http://www.compbio.cmu.edu/recomb/). 
+    code: not available (yet)
+    completed: ongoing
+  - name: "<i class='icon-home'></i> TuftsText / CollegiateText"
     language: Python/HTML/CSS/SQL
     purpose: |
      When I arrived at Tufts, I was a frequent user of a textbook price comparison service called [GetchaBooks](http://www.getchabooks.com), created by Tufts students. This winter, when the students who created the website decided to take it down, my friend [James](http://www.facebook.com/james.roseman) and I picked up where they left off.
@@ -10,7 +19,7 @@ projects:
       The GetchaBooks people made their code open-source, so we simply had to install their Git repo onto a properly-configured server, change some CSS colors, and behold: [TuftsText](http://www.tuftstext.com). The site worked great during the Spring semester, and drove quite a bit of traffic. However, once Tufts changed the software used by the university to manage courses and registration, much of the infrastructure upon which GetchaBooks/TuftsText is based no longer works. So, James and I are working on rebuilding TuftsText from the ground up and are planning on expanding to two other area universities, Bentley and Brandeis. 
     code: not yet available
     completed: Spring 2013
-  - name: "<img src='img/home.png' width='20px' height='20px'/> This website!"
+  - name: "<i class='icon-home'></i> This website!"
     language: HTML/CSS/[Jekyll](http://jekyllrb.com)
     purpose: |
       To create a simple personal website that can be easily and quickly updated. I was looking for a nice way to be able to write my site in [markdown](http://daringfireball.net/projects/markdown/).
@@ -18,7 +27,7 @@ projects:
       The site is very much a work in progress, but the implementation is quite enjoyable to work with. My desire for a clean Markdown-based site and a database-free content management system brought me to [GitHub Pages](http://pages.github.com). GitHub runs the markdown through Jekyll, which supports the [Liquid Template Engine](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers), which is small and simple to use. All of the projects on this page, for example, are encoded in [YAML](http://www.yaml.org/spec/1.2/spec.html) format, parsed by Liquid into the tables you see.
     code: available on my [GitHub page](http://www.github.com/acannistra).
     completed: Spring 2013
-  - name: "<img src='img/school.png' width='20px' height='20px'/> COMP105: Standard ML Type Inference"
+  - name: "<i class='icon-briefcase'></i> COMP105: Standard ML Type Inference"
     language: "Standard ML"
     purpose: |
      To add a SML-like type inference system to a "micro-ML" (type-free) interpreter
@@ -27,7 +36,7 @@ projects:
     code: |
       To maintain academic integrity, this code will not be shared.
     completed: "Spring 2013"
-  - name: "<img src='img/school.png' width='20px' height='20px'/> COMP167: SNP Calling Analysis"
+  - name: "<i class='icon-briefcase'></i> COMP167: SNP Calling Analysis"
     language: "Python"
     purpose: |
       To analyze the results of a SNP-calling program, in the form of <code>.vcf</code> files, and compute statistics about the data. The data were also compared against a database of known SNPs (dbSNP, csomes 18-21) to find "novel" variants.
@@ -45,7 +54,7 @@ projects:
     code: |
       To maintain academic integrity, this code will not be shared.
     completed: Spring 2013
-  - name: "<img src='img/school.png' width='20px' height='20px'/> COMP167: A Simple _De Novo_ Genome Assembler"
+  - name: "<i class='icon-briefcase'></i> COMP167: A Simple _De Novo_ Genome Assembler"
     language: C++
     purpose: |
       Given two <code>fastq</code> files, each containing reads from a genome fragment, we set out to assemble as much of the original sequence as possible using pairwise overlaps and a <a href="http://en.wikipedia.org/wiki/De_Bruijn_graph">De Brujin</a> <a href="http://www.nature.com/nbt/journal/v29/n11/full/nbt.2023.html">assembly strategy.</a>
@@ -56,14 +65,14 @@ projects:
 
 ---
 
-<h1> Recent Projects  <span style="margin-left: auto; margin-right:auto; font-size: 15px">(<img width="15px" height="15px" src="img/school.png" /> = school, <img width="15px" height="15px" src="img/home.png" /> = personal)</span></h1>
+<h1> Recent Projects  <span style="font-size: 20px">(<i class="icon-briefcase"></i> = school, <i class="icon-home"></i> = personal)</span></h1>
 
 {% for proj in page.projects %}
 ## {{ proj.name }}
 <table>
 	<tr>
 		<td><b>Language:</b></td>
-		<td>{{ proj.language | markdownify }}</td>
+		<td valign="middle">{{ proj.language}}</td>
 	</tr>
 	<tr>
 		<td><b>Purpose:</b></td>
