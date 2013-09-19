@@ -1,6 +1,7 @@
 ---
 layout: index
 title: Anthony F. Cannistra
+published: true
 ---
 
 <img src="http://distilleryimage4.ak.instagram.com/df83409cf71b11e2b30422000aaa0585_7.jpg" style="border: 1px solid #; -webkit-border-radius: 13px; -moz-border-radius: 13px; border-radius: 13px;" />
@@ -13,4 +14,4 @@ title: Anthony F. Cannistra
 <a href="http://instagram.com/madenottaken?ref=badge" style="float: right;" class="ig-b- ig-b-16"><img src="//badges.instagram.com/static/images/ig-badge-16.png" alt="Instagram" /></a></small>
 
 
-I'm a student at Tufts University in Medford, MA, studying [Computer Science](http://www.cs.tufts.edu) and [Biology](http://ase.tufts.edu/biology), graduating in [2015](http://en.wikipedia.org/wiki/2015). I'm interested in computational biology, software engineering, and design. I also enjoy [nature](http://www.tuftsmountainclub.org), [reading](http://www.goodreads.com/tonycannistra), and [food](http://blog.anthonycannistra.com/tagged/food).
+I'm a student at Tufts University in Medford, MA, studying [Computer Science](http://www.cs.tufts.edu) and [Biology](http://ase.tufts.edu/biology), graduating in [2015](http://en.wikipedia.org/wiki/2015). I'm interested in computational biology, software engineering, and design. I'm a lover of beautiful code, I want to make apps that make people happy, and abstraction makes me smile. I also enjoy [nature](http://www.tuftsmountainclub.org), [reading](http://www.goodreads.com/tonycannistra), and [food](http://blog.anthonycannistra.com/tagged/food).
