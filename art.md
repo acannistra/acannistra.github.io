@@ -9,7 +9,7 @@ I'm excited about photography, graphic design, and ceramics, but am open to all 
 I don't have a central repository for photos that updates frequently. I used to use [flickr](http://www.flickr.com/photos/acannistra) but have moved to [facebook](https://www.facebook.com/tony.cannistra/photos_albums) because it's proven to be more convenient. However, Flickr is starting to become appealing again. I'll probably switch back. In the meantime, here are some photos I'm happy with.
 
 <a href="https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/q77/s720x720/1044372_10151792672408060_1316110003_n.jpg">![pemi](https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-frc3/q77/s720x720/1044372_10151792672408060_1316110003_n.jpg)</a>
-<small>The <a href="http://en.wikipedia.org/wiki/Pemigewasset_River‎">Pemigewasset River</a> in Woodstock, NH</small>
+<small>The <a href="http://en.wikipedia.org/wiki/Pemigewasset_River‎">Pemigewasset River</a> in Woodstock, NH. This photo is the cover of the November 25, 2013 [issue](http://issuu.com/tuftsobserver/docs/isssue_6_for_kumar) of the [Tufts Observer](http://www.tuftsobserver.org).</small>
 
 <a href="http://farm5.staticflickr.com/4098/4886736018_f94a6ff591_b.jpg">![breakwater](http://farm5.staticflickr.com/4098/4886736018_f94a6ff591_b.jpg)</a>
 <small>Breakwater; Block Island, RI</small>
