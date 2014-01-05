@@ -2,10 +2,12 @@
 layout: index
 title: Anthony F. Cannistra
 published: true
+image_url: http://distilleryimage11.ak.instagram.com/90e5493e685f11e387770ee5ed5ed4cf_8.jpg
+image_caption: A Snowy Evening at Tufts
 ---
 
-<img src="http://distilleryimage4.ak.instagram.com/df83409cf71b11e2b30422000aaa0585_7.jpg" style="border: 1px solid #; -webkit-border-radius: 13px; -moz-border-radius: 13px; border-radius: 13px;" />
-<small><a href="http://instagram.com/madenottaken">Sunset in Woods Hole, MA</a><style>.ig-b- { display: inline-block; }
+<img src="{{ page.image_url }}" style="border: 1px solid #; -webkit-border-radius: 13px; -moz-border-radius: 13px; border-radius: 13px;" />
+<small><a href="http://instagram.com/madenottaken">{{ page.image_caption}} </a><style>.ig-b- { display: inline-block; }
 .ig-b- img { visibility: hidden; }
 .ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
 .ig-b-16 { width: 16px; height: 16px; background: url(//badges.instagram.com/static/images/ig-badge-sprite-16.png) no-repeat 0 0; }
