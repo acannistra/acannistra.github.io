@@ -5,7 +5,7 @@ projects:
   - name: "<i class='icon-briefcase'></i>Tufts Idea Exchange 2014"
     language: English
     purpose: | 
-     The Tufts Idea Exchange is a TED-style forum in the spring of each academic year. Each year we invite undergraduates to apply to share their "big idea" with the campus in the form of an 8-minute presentation. We also invite a faculty member and some Tufts alumni/ae to share their experiences as well. As co-President this semester (along with sophomore (Kit McDonnell[https://www.facebook.com/kit.mcdonnell])), I am jointly responsible for leading the TEX team, a group of Tufts undergrads who read the 30-plus student applications, interview some, and select the 6 or 7 student speakers. We then coach those students for a month or so prior to the event to ensure their creative ideas are showcased brilliantly on stage in April. For more information, visit (tuftsedeaexchange.com)[http://www.tuftsideaexchange.com].
+     The Tufts Idea Exchange is a TED-style forum in the spring of each academic year. Each year we invite undergraduates to apply to share their "big idea" with the campus in the form of an 8-minute presentation. We also invite a faculty member and some Tufts alumni/ae to share their experiences as well. As co-President this semester (along with sophomore [Kit McDonnell](https://www.facebook.com/kit.mcdonnell])), I am jointly responsible for leading the TEX team, a group of Tufts undergrads who read the 30-plus student applications, interview some, and select the 6 or 7 student speakers. We then coach those students for a month or so prior to the event to ensure their creative ideas are showcased brilliantly on stage in April. For more information, visit [tuftsedeaexchange.com](http://www.tuftsideaexchange.com).
     outcome: |
      we're busily preparing for the event on April 9th, 2014.
     code: n/a
@@ -13,7 +13,7 @@ projects:
   - name: "<i class='icon-briefcase'></i>TuftsLife v3"
     language: HTML/CSS/Python-Django
     purpose: |
-     The Tufts University community has long relied upon a student-run web site known as (TuftsLife)[http://www.tuftslife.com], which is a portal for sharing events and classified listings pertinent to Tufts students. The site underwent a recent redesign that left the campus wanting, so myself and Tufts junior Tara Kola have undertaken the task of managing a team of ~10 excited Tufts students in the rebuilding of the site from the ground up. We hope to release TuftsLife v3 in the beginning of Fall 2014.
+     The Tufts University community has long relied upon a student-run web site known as [TuftsLife](http://www.tuftslife.com), which is a portal for sharing events and classified listings pertinent to Tufts students. The site underwent a recent redesign that left the campus wanting, so myself and Tufts junior Tara Kola have undertaken the task of managing a team of ~10 excited Tufts students in the rebuilding of the site from the ground up. We hope to release TuftsLife v3 in the beginning of Fall 2014.
     outcome: |
      Project ongoing. 
     code: none available.
