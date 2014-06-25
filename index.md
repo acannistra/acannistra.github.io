@@ -2,8 +2,8 @@
 layout: index
 title: Anthony F. Cannistra
 published: true
-image_url: http://distilleryimage11.ak.instagram.com/90e5493e685f11e387770ee5ed5ed4cf_8.jpg
-image_caption: A Snowy Evening at Tufts
+image_url: http://scontent-b.cdninstagram.com/hphotos-xpf1/t51.2885-15/10471961_481699888643370_1819612166_n.jpg
+image_caption: An agonizing wait for [summer refreshment.](https://www.dels.com)
 ---
 
 <img src="{{ page.image_url }}" style="border: 1px solid #; -webkit-border-radius: 13px; -moz-border-radius: 13px; border-radius: 13px;" />
