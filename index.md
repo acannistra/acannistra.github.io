@@ -2,8 +2,8 @@
 layout: index
 title: Anthony F. Cannistra
 published: true
-image_url: http://photos-f.ak.instagram.com/hphotos-ak-xfa1/t51.2885-15/10860056_1590835391152845_72578314_n.jpg
-image_caption: Summit of Mt. Eisenhower, White Mountains, New Hampshire, USA. 1.1.2015. 
+image_url: https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/e35/11820612_1020671164629784_109146080_n.jpg
+image_caption: Maroon Valley from the Highland Peak Ridge, Aspen, Colorado. 9.16.2015
 ---
 
 <img src="{{ page.image_url }}" style="border: 1px solid #; -webkit-border-radius: 13px; -moz-border-radius: 13px; border-radius: 13px;" />
