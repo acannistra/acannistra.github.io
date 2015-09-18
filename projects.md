@@ -2,7 +2,7 @@
 layout: index
 title: Anthony F Cannistra | Projects
 projects:
-  - name: "<i class='icon-briefcase'></i> Tufts Idea Exchange 2014"
+  - name: "<i class='icon-briefcase'></i>Tufts Idea Exchange 2014"
     language: English
     purpose: | 
      The Tufts Idea Exchange is a TED-style forum in the spring of each academic year. Each year we invite undergraduates to apply to share their "big idea" with the campus in the form of an 8-minute presentation. We also invite a faculty member and some Tufts alumni/ae to share their experiences as well. As co-President this semester (along with sophomore [Kit McDonnell](https://www.facebook.com/kit.mcdonnell)), I am jointly responsible for leading the TEX team, a group of Tufts undergrads who read the 30-plus student applications, interview some, and select the 6 or 7 student speakers. We then coach those students for a month or so prior to the event to ensure their creative ideas are showcased brilliantly on stage in April. For more information, visit [tuftsideaexchange.com](http://www.tuftsideaexchange.com).
@@ -88,6 +88,7 @@ projects:
     completed: Spring 2013
 
 ---
+
 <h1> Recent Projects  <span style="font-size: 20px">(<i class="icon-briefcase"></i> = school, <i class="icon-home"></i> = personal)</span></h1>
 
 {% for proj in page.projects %}
@@ -115,9 +116,5 @@ projects:
 	</tr>
 </table>
 {% endfor %} 
-
-{% for project in site.projects %}
-##{project.name}
-{% endfor %}
 
 
