@@ -5,6 +5,10 @@ title: Anthony F. Cannistra | Art
 ## I enjoy being creative.
 I'm excited about photography, graphic design, and ceramics, but am open to all kinds of artistic avenues. Below you'll find some examples that I've done over the years, and some places to keep an eye on what I'm working on.
 
+### Cinematography
+In October 2015, I embarked with my friend Valerie on a roadtrip across the country. I filmed the whole thing and put it together into a short video. 
+<iframe src="https://player.vimeo.com/video/146180267" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/146180267">Across the Nation</a> from <a href="https://vimeo.com/tonycannistra">Tony Cannistra</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 ### Photography
 I don't have a central repository for photos that updates frequently. I used to use [flickr](http://www.flickr.com/photos/acannistra) but have moved to [facebook](https://www.facebook.com/tony.cannistra/photos_albums) because it's proven to be more convenient. However, Flickr is starting to become appealing again. I'll probably switch back. In the meantime, here are some photos I'm happy with.
 
