@@ -1,0 +1,37 @@
+header{
+	width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-align:center;
+    font-weight: inherit;
+}
+
+
+header h1 {
+    font-weight: bold;
+    color: #494949;
+	font-size: 18px;
+}
+
+header h2 {
+	color: rgba(73, 73, 73, 0.72);
+	font-size: 14px;
+	font-weight: inherit;
+}
+
+
+
+section{
+	width: inherit;
+	float: left;
+}
+
+@media print, screen and (max-width: 960px) {
+	section {
+	  border:inherit;
+	  border-width:inherit;
+	  padding:inherit;
+	  margin:inherit;
+	}
+}
