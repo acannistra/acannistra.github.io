@@ -34,4 +34,78 @@ section{
 	  padding:inherit;
 	  margin:inherit;
 	}
+
+	header{
+		padding-right: inherit;
+	}
 }
+	
+div .row{
+	margin-bottom: 2em;
+}
+
+div .portfolio-item{
+	position:relative;
+	width: 100%;
+}
+
+div .portfolio-item .icon{
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 2em;
+	width: 2em;
+	font-size: 2em;
+	color: white;
+	text-align: center;
+}
+
+img {
+	position:relative:;
+	border: 2px;
+}
+div .info:hover {
+	opacity: 1;
+	background: -webkit-linear-gradient(top,rgba(255, 255, 255, 0),rgba(0, 0, 0, 0.47));
+	transition: opacity 0.06s ease-in-out, background 0.06s ease-in-out;
+
+}
+
+div .info{
+	background:none;
+	transition: opacity 0.06s ease-in-out, background 0.06s ease-in-out;	
+	position: absolute;
+	bottom: 0;
+	left:0;
+	opacity: 0.6;
+	height: 100%;
+	width: 100%;
+}
+
+div .info h1 {
+	margin-bottom: 5px;
+	padding-left: 5px;
+	font-size: 40px;
+	color: white;
+	position: absolute;
+	bottom: 0;
+}
+
+@media print, screen and (max-width: 640px) {
+	div .row {
+		margin-bottom: 0em;
+	}
+
+}
+
+div .info .date{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	width: 5em;
+	margin-bottom: 5px;
+	font-size: 17px;
+	color: white;
+}
+
+
