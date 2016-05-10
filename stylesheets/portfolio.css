@@ -143,11 +143,24 @@ div .info .location{
 		font-size: 13px;
 	}
 
+	div .medium-6{
+		margin-bottom: 2em;
+	}
+
+
 }
 
 @media print, screen and (max-width: 800px) {
 	div .info h1 {
 		font-size: 20px;
+	}
+	div .hider div{
+		visibility: visible;
+	}
+
+	div .info{
+		opacity: 1;
+		background: -webkit-linear-gradient(top,rgba(255, 255, 255, 0),rgba(0, 0, 0, 0.47));
 	}
 
 }

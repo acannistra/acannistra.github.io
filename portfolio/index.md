@@ -6,8 +6,10 @@ description: I like photography, cinematography, writing, and pottery. Here is a
 ---
 
 <div class="row" data-equalizer>
-{% for item in site.portfolio | sort: 'date' reversed %}
+{% assign sorted = (site.portfolio | sort: 'date') | reverse %}
 
+{% for item in sorted %}
+  
   {% capture mod %} {{ forloop.index | modulo: 2 }} {% endcapture %}
   
   <div class="medium-6 columns " data-equalizer-watch>
