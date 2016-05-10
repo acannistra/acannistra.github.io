@@ -9,10 +9,7 @@ description: I like photography, cinematography, writing, and pottery. Here is a
 {% for item in site.portfolio | sort: 'date' reversed %}
 
   {% capture mod %} {{ forloop.index | modulo: 2 }} {% endcapture %}
-  {% if mod == '0' %}
-  </div>
-  <div class="row" data-equalizer >
-  {% endif %}
+  
   <div class="medium-6 columns " data-equalizer-watch>
     {% if item.link %}
     <a href="{{ item.link }} ">
@@ -49,5 +46,9 @@ description: I like photography, cinematography, writing, and pottery. Here is a
     </div>
     </a>
   </div>
+  {% if mod == ' 0 ' %}
+  </div>
+  <div class="row" data-equalizer >
+  {% endif %}
 {% endfor %}
 </div>
