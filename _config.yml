@@ -3,6 +3,6 @@ root: index.html
 collections:
    projects:
    authorship:
-   portfolio_content:
+   portfolio:
     output: true
     permalink: /portfolio/:title
