@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="../stylesheets/styles.css">
     <link rel="stylesheet" href="../stylesheets/portfolio.css">
 
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <link rel="stylesheet" href="../stylesheets/pygment_trac.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
 
@@ -33,73 +33,13 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1>anthony f. cannistra | portfolio <h1>
-        <h2>{{ page.description }} </h2>
+        <h1> {{ page.title }} <h1>
+        <h2>{{ page.description | markdownify }} </h2>
       </header>
-      
-      <div class="row">
-        <div class="medium-6 columns ">
-          <div class="portfolio-item">
-            <img src="https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/12186611_10153789433403060_4976026439350365246_o.jpg"/>
-            <div class="icon">
-              <i class="fa fa-camera-retro" aria-hidden="true"></i>
-            </div>
-            <div class="info">
-              <h1>Test</h1>
-              <div class="date">July 2016</div>
-            </div>
-          </div>
-        </div>
-        <div class="medium-6 columns ">
-          <div class="portfolio-item">
-            <img src="https://scontent-lga3-1.xx.fbcdn.net/t31.0-8/13063309_10154198089933060_8685264029744046731_o.jpg"/>
-            <div class="icon">
-              <i class="fa fa-file-text-o" aria-hidden="true"></i>
-            </div>
-            <div class="info">
-              <h1>Test</h1>
-              <div class="date">March 2016</div>
-
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row ">
-        <div class="medium-6 columns ">
-          <div class="portfolio-item">
-            <img src="https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/12186611_10153789433403060_4976026439350365246_o.jpg"/>
-            <div class="icon">
-              <i class="fa fa-video-camera" aria-hidden="true"></i>
-            </div>
-            <div class="info">
-              <h1>Test</h1>
-            </div>
-          </div>
-        </div>
-        <div class="medium-6 columns ">
-          <div class="portfolio-item">
-            <img src="https://scontent.fsnc1-1.fna.fbcdn.net/t31.0-8/12186611_10153789433403060_4976026439350365246_o.jpg"/>
-            <div class="icon">
-              <i class="fa fa-hand-spock-o" aria-hidden="true"></i>
-            </div>
-            <div class="info">
-              <h1>Test</h1>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="row collapse">
-        <div class="medium-4 columns "><img src="http://www.placehold.it/400x300"/></div>
-        <div class="medium-4 columns "><img src="http://www.placehold.it/400x300"/></div>
-        <div class="medium-4 columns "><img src="http://www.placehold.it/400x300"/></div>
-      </div>
-      <div class="row collapse">
-        <div class="medium-4 columns "><img src="http://www.placehold.it/400x300"/></div>
-        <div class="medium-4 columns "><img src="http://www.placehold.it/400x300"/></div>
-        <div class="medium-4 columns "><img src="http://www.placehold.it/400x300"/></div>
-      </div>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
+ 
+      {{ content }}
+     
+    <script src="../javascripts/scale.fix.js"></script>
     
   </body>
   <!-- Google analytics tracking -->
