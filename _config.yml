@@ -1,4 +1,3 @@
-markdown: redcarpet
 root: index.html
 collections:
    projects:
