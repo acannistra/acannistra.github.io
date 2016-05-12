@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 type: photo
-title: Tony Brooks & Geraldine Horwitz
+title: Tony Horwitz & Geraldine Brooks
 short_desc: volunteer photography for Aspen Words.
 description: none
 date: March 2016
