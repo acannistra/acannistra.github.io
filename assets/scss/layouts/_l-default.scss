@@ -1,0 +1,44 @@
+// --------------------------------------------------
+// Layout default
+// --------------------------------------------------
+
+$break-small: 1249px;
+$break-large: 1250px;
+
+.navbar {
+   padding: 24px 0;
+}
+
+footer {
+  @include grid-row;
+  background-color: $light-gray;
+
+  
+  position: fixed;
+  bottom: 0;
+  z-index: -1;
+  padding: 9px;
+  nav {
+    @include grid-column;
+  }
+}
+
+.container {
+  border: 9px solid #A1D490;
+  min-height: 100%;
+}
+
+
+.content {
+  max-width: 1250px;
+  @media screen and (max-width: $break-small){
+    margin: 0 5% 0 5%;
+  }
+  @media screen and (min-width: $break-large){
+    margin: 0 auto;
+  }
+}
+
+.site-logo {
+  width: 20%;
+}
