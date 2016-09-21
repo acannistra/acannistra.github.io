@@ -1,7 +1,0 @@
-root: index.html
-collections:
-   projects:
-   authorship:
-   portfolio:
-    output: true
-    permalink: /portfolio/:title
