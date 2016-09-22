@@ -1,0 +1,24 @@
+$post-grey: #e6e5e6;
+
+.bottom-margin {
+	margin-bottom: 1em;
+}
+
+.row .post_index {
+	height: 500px;
+}
+
+.post_preview {
+	padding: 20px;
+	background: $post-grey;
+	height: 500px;
+	
+	a {
+		color: black;
+		border-bottom: 1px solid #000
+	}
+}
+
+.post_title {
+	font-family: "Playfair Display", serif;
+}
