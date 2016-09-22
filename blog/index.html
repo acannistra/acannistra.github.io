@@ -3,18 +3,29 @@ layout: page
 ---
 
 <!-- This loops through the paginated posts -->
+<div class="row post-index" data-equalizer>
 {% for post in paginator.posts %}
     
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    <p class="post-meta">{{ post.date | date: '%d.%m.%Y' }}</p>
-    {{ post.excerpt }}
-    <a href="{{ post.url }}">Read more...</a>
+    {% capture mod %} {{ forloop.index | modulo: 2 }} {% endcapture %}
     
-    {% unless forloop.last %}
-    <hr>
-    {% endunless %}
+    <article class="medium-6 columns bottom-margin" data-equalizer-watch>
+        <div class="post_preview">
+            <h1><a class="post_title" href="{{ post.url }}">{{ post.title }}</a></h1>
+            <p class="post-meta">{{ post.date | date: '%B %d, %Y' }}</p>
+            {{ post.description }}
+            <a href="{{ post.url }}">Read more...</a>
+            <div class="post_tags">{{}}
+        </div>        
+    </article>
 
+<!-- if we're at the end of a row, end this one and make a new one -->
+{% if mod == ' 0 ' %}
+</div>
+
+<div class="row post-index" data-equalizer>
+{% endif %}
 {% endfor %}
+</div>
 
 <br><br>
 
@@ -32,7 +43,7 @@ layout: page
             {% if page == paginator.page %}
                 <li class="current"><a>{{ page }}</a></li>
             {% elsif page == 1 %}
-                <li><a href="{{ site.paginate_path | replace: '/seite:num', '' }}">{{ page }}</a></li>
+                <li><a href="{{ site.paginate_path | replace: '/seite:1', '' }}">{{ page }}</a></li>
             {% else %}
                 <li><a href="{{ site.paginate_path | replace: ':num', page }}">{{ page }}</a></li>
             {% endif %}

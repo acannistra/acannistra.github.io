@@ -2,8 +2,17 @@
 // Layout default
 // --------------------------------------------------
 
-$break-small: 1249px;
-$break-large: 1250px;
+.nopad {
+  padding: 0;
+}
+
+h1,h2,h3,h4,p {
+  font-family: "Raleway", sans-serif;
+}
+
+.content {
+  padding: 24px;
+}
 
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
@@ -12,11 +21,19 @@ $break-large: 1250px;
     margin-top: 0
   }
   @media screen and (min-width: $break-large){
-    margin-top: 1.5rem
+    margin-top: 1.2rem
   }
 }
 
-h1{
+
+
+
+.navbar {
+  background: white;
+  font-family: 'Raleway', sans-serif;
+  padding: 24px 0;
+
+  h1 {
     font-family: 'Raleway', sans-serif;
     @media screen and (max-width: $break-small){
       font-size: 1.5rem;
@@ -24,13 +41,7 @@ h1{
     @media screen and (min-width: $break-large){
       font-size: 2.8rem;
     }
-}
-
-
-.navbar {
-  background: white;
-  font-family: 'Raleway', sans-serif;
-  padding: 24px 0;
+  }
 }
 
 
@@ -49,12 +60,21 @@ footer {
 }
 
 .container {
-  border: 9px solid #A1D490;
+  font-family: 'Raleway', sans-serif;
+    @media screen and (max-width: $break-small){
+      border: 7px solid $border-color;
+    }
+    @media screen and (min-width: $break-large){
+      border: 9px solid $border-color;
+    }
+
   min-height: 100%;
+  padding-bottom: 5%;
+
 }
 
 
-.content {
+.top-content {
   max-width: 1250px;
   @media screen and (max-width: $break-small){
     margin: 0 5% 0 5%;
@@ -62,6 +82,10 @@ footer {
   @media screen and (min-width: $break-large){
     margin: 0 auto;
   }
+}
+
+.main-content{
+
 }
 
 .site-logo {

@@ -1,6 +1,6 @@
 # Site settings
 language:               ""
-title:                  "Site Title"
+title:                  "Tony Cannistra"
 description:            "Site description"
 google-verification:    ""
 
@@ -40,4 +40,4 @@ incremental:      true
 # Outputting
 permalink:        "/blog/:year/:title/"
 paginate_path:    "/blog/page:num"
-paginate:         5
+paginate:         6

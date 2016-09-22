@@ -1,16 +1,10 @@
 {% include head.html %}
 
-<div class="navbar content">
-	<div class="row valign-middle">
-		<div class="small-4 columns"><h1>Tony Cannistra</h1></div>
-		<div class="small-8 columns ">
-			<div class="row topmenu">
-			  <div class="large-2 columns"><a href="#">About Me</a></div>
-			  <div class="large-2 columns"><a href="#">Blog</a></div>
-			  <div class="large-2 columns"><a href="#">Research</a></div>
-			  <div class="large-2 columns"><a href="#">Publications</a></div>
-			  <div class="large-2 columns end"><a href="#">Portfolio</a></div>
-			</div>
+<div class="navbar top-content">
+	<div class="row">
+		<div class="small-4 columns"><h1><a href="/" style="color: black">{{site.title}}</a></h1></div>
+		<div class="small-8 topmenu columns">
+			{% include components/nav-menu.html %}
 		</div>
 	</div>
 </div>

@@ -40,6 +40,8 @@
 // Open Sans`
 // @import url("http://fonts.googleapis.com/css?family=Open+Sans:400,700");
 @import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
 
 
 //
@@ -80,11 +82,12 @@
 @import 'layouts/l-index';
 @import 'layouts/l-page';
 @import 'layouts/l-post';
+@import 'layouts/l-blogindex';
 
 //
 // 8. Modules
 // --------------------------------------------------
-@import 'modules/m-your-module';
+@import 'modules/wide';
 
 //
 // 9. State
