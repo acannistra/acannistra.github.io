@@ -2,19 +2,6 @@
 layout: default
 ---
 
-<main>
-<small><i>main</i></small>
-<article>
-  <h1 class="post_title">{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date_to_string }}</p>
-  {% assign words = content | number_of_words %}
-  {% if words < 360 %}
-    1 min
-  {% else %}
-    {{ words | divided_by:180 }} mins
-  {% endif %}
-  <p class="post-content">
-  {{ content }}
-  </p>
-</article>
-</main>
+<div class="headline" style="background: red">
+123
+</div>
