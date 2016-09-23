@@ -25,7 +25,7 @@ exclude:
   - "package.json"
   - "README.md"
   - "rev-manifest.json"
-  - "/vendor/"
+  - "vendor"
 
 # Plugins
 gems:             ["jekyll-sitemap", "jekyll-paginate"]
