@@ -1,0 +1,146 @@
+// --------------------------------------------------
+// Layout default
+// --------------------------------------------------
+
+.nopad {
+  padding: 0;
+}
+
+h1,h2,h3,h4,p {
+  font-family: "Raleway", sans-serif;
+}
+
+.content {
+  padding: 24px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.topmenu {
+  @media screen and (max-width: $break-small){
+    margin-top: 0
+  }
+  @media screen and (min-width: $break-large){
+    margin-top: 1.2rem
+  }
+}
+
+
+
+
+.navbar {
+  background: white;
+  font-family: 'Raleway', sans-serif;
+  padding: 24px 0;
+
+  h1 {
+    font-family: 'Raleway', sans-serif;
+    @media screen and (max-width: $break-small){
+      font-size: 1.5rem;
+    }
+    @media screen and (min-width: $break-large){
+      font-size: 2.8rem;
+    }
+  }
+}
+
+
+footer {
+  @include grid-row;
+  background-color: $light-gray;
+
+  
+  position: fixed;
+  bottom: 0;
+  z-index: -1;
+  padding: 9px;
+  nav {
+    @include grid-column;
+  }
+}
+
+.container {
+  font-family: 'Raleway', sans-serif;
+    @media screen and (max-width: $break-small){
+      border: 7px solid $border-color;
+    }
+    @media screen and (min-width: $break-large){
+      border: 9px solid $border-color;
+    }
+
+  min-height: 100%;
+  // padding-bottom: 5%;
+
+}
+
+
+.top-content {
+  max-width: 1250px;
+  @media screen and (max-width: $break-small){
+    margin: 0 5% 0 5%;
+  }
+  @media screen and (min-width: $break-large){
+    margin: 0 auto;
+  }
+}
+
+.main-content{
+
+}
+
+.site-logo {
+  width: 40%;
+}
+
+.headshot {
+  margin: 3px;
+}
+
+footer {
+  border-top: 1px grey solid;
+  background: none;
+  position: relative;
+  max-height: 150px;
+  padding-bottom: 5px;
+  font-size: 0.9rem;
+  z-index: 10;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  .fa {
+    font-size: 2rem;
+  }
+
+  img {
+    background: white;
+    height: 2rem;
+    vertical-align: top;
+  }
+
+  a {
+    z-index:10000;
+    color: black;
+  }
+}
+
+
+// Header Links
+
+.header-link {
+  left: 0.5em;
+  opacity: 0;
+
+  \-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+  \-moz-transition: opacity 0.2s ease-in-out 0.1s;
+  \-ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+  opacity: 1;
+}

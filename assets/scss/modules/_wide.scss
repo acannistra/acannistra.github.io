@@ -1,0 +1,26 @@
+// --------------------------------------------------
+// Your module
+// --------------------------------------------------
+
+$background-image: "https://photos-1.dropbox.com/t/2/AAARmH-8SNVslxbR0LoZHtkM5DCjq3T5IhUe8cEdgLXzug/12/5654551/jpeg/256x256/1/_/1/2/2016-01-23%2011.24.06-2.jpg/ENPsnQQY1Mc1IAcoBw/Xgf0OFfhUotGNt10gm8DcVuvbCPGtfuD7MW1LTBJdko?size_mode=3&size=2048x1536";
+$background-brightness: 100%;
+
+.wide {
+	max-width: 1500px;
+	margin-bottom: 24px;	
+
+	.background{
+		width: 100%;
+		height: 100%;
+		background-image: url($background-image);
+		background-position:bottom;
+		background-size:cover;		
+		-webkit-filter: brightness($background-brightness);
+	}
+
+	.caption {
+		color: #A9A9A9;
+		font-family: "Raleway", sans-serif;
+		font-size:0.75rem
+	}
+}

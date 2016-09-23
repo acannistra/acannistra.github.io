@@ -1,7 +1,48 @@
-root: index.html
+# Site settings
+language:               "en/US"
+title:                  "Tony Cannistra"
+description:            ""
+google-verification:    ""
+
+# Handling Reading
+include:
+  - ".htaccess"
+  - "_pages"
+
+exclude:
+  - "/assets/"
+  - "bower.json"
+  - "composer.json"
+  - "composer.lock"
+  - "DOC.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "/gulp/"
+  - "gulpfile.js"
+  - "LICENSE.md"
+  - "Makefile"
+  - "node_modules"
+  - "npm-debug.log"
+  - "package.json"
+  - "README.md"
+  - "rev-manifest.json"
+
+# Plugins
+gems:             ["jekyll-sitemap", "jekyll-paginate"]
+
+# Conversion
+incremental:      true
+
+# Serving
+# url:            ""
+# baseurl:        "" # does not include hostname
+
+# Outputting
+permalink:        "/blog/:title/"
+paginate_path:    "/blog/page-:num"
+paginate:         6
+
 collections:
-   projects:
-   authorship:
-   portfolio:
-    output: true
-    permalink: /portfolio/:title
+  portfolio:
+      output: true
+      permalink: /portfolio/:title

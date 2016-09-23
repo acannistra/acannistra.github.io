@@ -1,0 +1,78 @@
+// --------------------------------------------------
+// Layout post
+// --------------------------------------------------
+
+@import "l-blogindex";
+
+.headline {
+	height: 400px;
+	background: $header-bg;
+
+	@media screen and (max-width: $break-small){
+		height: 320px;
+	}
+	@media screen and (min-width: $break-large){
+		height: 400px;
+
+	}
+
+	h1 {
+		@media screen and (max-width: $break-small){
+		  padding-top: 3rem;
+		  font-size: 2rem;
+		}
+		@media screen and (min-width: $break-large){
+		  font-size: 4rem;
+		  padding-top: 5rem;
+		}
+		
+		font-size: 4em;
+		text-align: center;
+	}
+
+
+}
+
+.small {
+	@media screen and (max-width: $break-small){
+		height: 65px;
+	}
+	@media screen and (min-width: $break-large){
+		height: 120px;
+
+	}
+	.post_title {
+		max-height: 120px;
+		margin: auto 0;
+		padding-top: 0.5rem;
+		text-align: center;
+	}
+}
+
+.post_date{
+	padding: 0.5rem;
+	text-align: center;
+}
+
+.post_descr {
+	margin: auto;
+	max-width: 750px;
+	padding-left: 0.5rem;
+	padding-right: 0.5rem;
+	text-align: center;
+
+
+	@media screen and (max-width: $break-small){
+		  font-size: 0.9rem;
+		}
+		@media screen and (min-width: $break-large){
+		  font-size: 1.2rem;
+		}
+	
+}
+
+.post_content {
+	margin: auto;
+	max-width: 850px;
+}
+

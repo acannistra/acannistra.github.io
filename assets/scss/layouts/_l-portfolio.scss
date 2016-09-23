@@ -1,0 +1,145 @@
+
+div .row {
+	margin-bottom: 2em;
+}
+
+a .portfolio-item {
+	position:relative;
+	width: 100%;
+}
+
+a .portfolio-item .icon {
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 2em;
+	width: 2em;
+	font-size: 2em;
+	color: white;
+	text-align: center;
+}
+
+img {
+	position:relative;
+	border: 2px;
+	z-index: -1;
+}
+div .info:hover {
+	opacity: 1;
+	background: -webkit-linear-gradient(top,rgba(255, 255, 255, 0),rgba(0, 0, 0, 0.47));
+	/*transition: opacity 0.06s ease-in-out, background 0.06s ease-in-out;*/
+
+}
+
+div .info {
+	background:none;
+	/*transition: opacity 0.06s ease-in-out, background 0.06s ease-in-out;	*/
+	position: absolute;
+	bottom: 0;
+	left:0;
+	opacity: 0.6;
+	height: 100%;
+	width: 100%;
+	text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.45);
+}
+
+div .hider {
+	position: absolute;
+	bottom:0;
+	top:0;
+	left:0;
+	right:0;
+}
+
+div .hider div {
+	visibility: hidden;
+}
+
+div .hider:hover div {
+	visibility: visible;
+}
+
+div .info h1 {
+	margin-bottom: 25px;
+	padding-left: 10px;
+	font-size: 25px;
+	color: white;
+	position: absolute;
+	bottom: 0;
+	font-weight: 200;
+
+}
+
+div .info h2 {
+	position: absolute;
+	margin-bottom: 7px;
+	padding-left: 10px;
+	font-size: 18px;
+	color: white;
+	bottom: 0;
+	font-weight: lighter;
+}
+
+div .info .location {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	text-align: right;
+	margin-bottom: 4px;
+	margin-right: 5px;
+	color: white;
+	font-style: italic;
+}
+
+@media print, screen and (max-width: 640px) {
+	div .row {
+		margin-bottom: 0em;
+	}
+	div .info h1{
+		font-size: 15px;
+	}
+
+	div .info h2{
+		font-size: 13px;
+	}
+
+	div .medium-6{
+		margin-bottom: 2em;
+	}
+
+
+}
+
+@media print, screen and (max-width: 800px) {
+	div .info h1 {
+		font-size: 20px;
+	}
+	div .hider div{
+		visibility: visible;
+	}
+
+	div .info{
+		opacity: 1;
+		background: -webkit-linear-gradient(top,rgba(255, 255, 255, 0),rgba(0, 0, 0, 0.47));
+	}
+
+	div .hider div {
+		visibility: show;
+	}
+
+	div .info .location {
+		visibility: hidden;
+	}
+
+}
+div .info .date {
+	position: absolute;
+    top: 0;
+    left: 0;
+    margin-top: 5px;
+    margin-left: 10px;
+    font-size: 17px;
+    color: white;
+    text-align: left;
+}
+

@@ -1,0 +1,17 @@
+- link: Blog
+  url: /blog
+
+- link: Research
+  url: /research
+
+- link: Publications
+  url: /publications
+
+- link: Trips
+  url: /trips/
+
+- link: Portfolio
+  url: /portfolio
+
+- link: CV
+  url: http://resume.anthonycannistra.com
