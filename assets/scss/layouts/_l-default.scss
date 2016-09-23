@@ -97,7 +97,7 @@ footer {
 }
 
 footer {
-  border-top: 0.01rem grey solid;
+  border-top: 1px grey solid;
   background: none;
   position: relative;
   max-height: 150px;
@@ -114,11 +114,33 @@ footer {
   }
 
   img {
+    background: white;
     height: 2rem;
     vertical-align: top;
   }
 
   a {
+    z-index:10000;
     color: black;
   }
+}
+
+
+// Header Links
+
+.header-link {
+  left: 0.5em;
+  opacity: 0;
+
+  \-webkit-transition: opacity 0.2s ease-in-out 0.1s;
+  \-moz-transition: opacity 0.2s ease-in-out 0.1s;
+  \-ms-transition: opacity 0.2s ease-in-out 0.1s;
+}
+
+h2:hover .header-link,
+h3:hover .header-link,
+h4:hover .header-link,
+h5:hover .header-link,
+h6:hover .header-link {
+  opacity: 1;
 }
