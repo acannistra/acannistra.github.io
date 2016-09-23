@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 ---
 
 <!-- This loops through the paginated posts -->
@@ -14,7 +14,7 @@ layout: page
             <p class="post-meta">{{ post.date | date: '%B %d, %Y' }}</p>
             {{ post.description }}
             <a href="{{ post.url }}">Read more...</a>
-            <div class="post_tags">{{}}
+            <div class="post_tags">{{ page.categories }}
         </div>        
     </article>
 

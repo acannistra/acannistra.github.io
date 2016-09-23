@@ -6,7 +6,7 @@
 
 .headline {
 	height: 400px;
-	background: $post-grey;
+	background: $header-bg;
 
 	@media screen and (max-width: $break-small){
 		height: 320px;
@@ -27,6 +27,24 @@
 		}
 		
 		font-size: 4em;
+		text-align: center;
+	}
+
+
+}
+
+.small {
+	@media screen and (max-width: $break-small){
+		height: 65px;
+	}
+	@media screen and (min-width: $break-large){
+		height: 120px;
+
+	}
+	.post_title {
+		max-height: 120px;
+		margin: auto 0;
+		padding-top: 0.5rem;
 		text-align: center;
 	}
 }

@@ -69,7 +69,7 @@ footer {
     }
 
   min-height: 100%;
-  padding-bottom: 5%;
+  // padding-bottom: 5%;
 
 }
 
@@ -90,4 +90,35 @@ footer {
 
 .site-logo {
   width: 40%;
+}
+
+.headshot {
+  margin: 3px;
+}
+
+footer {
+  border-top: 0.01rem grey solid;
+  background: none;
+  position: relative;
+  max-height: 150px;
+  padding-bottom: 5px;
+  font-size: 0.9rem;
+  z-index: 10;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  .fa {
+    font-size: 2rem;
+  }
+
+  img {
+    height: 2rem;
+    vertical-align: top;
+  }
+
+  a {
+    color: black;
+  }
 }

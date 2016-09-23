@@ -1,7 +1,7 @@
 # Site settings
-language:               ""
+language:               "en/US"
 title:                  "Tony Cannistra"
-description:            "Site description"
+description:            ""
 google-verification:    ""
 
 # Handling Reading
@@ -38,8 +38,8 @@ incremental:      true
 # baseurl:        "" # does not include hostname
 
 # Outputting
-permalink:        "/blog/:year/:title/"
-paginate_path:    "/blog/page:num"
+permalink:        "/blog/:title/"
+paginate_path:    "/blog/page-:num"
 paginate:         6
 
 collections:

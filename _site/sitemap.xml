@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/blog/2016/welcome-to-jekyll/</loc>
-<lastmod>2016-03-23T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>/blog/2016/welcome-to-jekyll-copy/</loc>
-<lastmod>2016-03-23T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>/blog/2016/welcome-to-jekyll-copy-4/</loc>
-<lastmod>2016-03-23T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>/blog/2016/welcome-to-jekyll-copy-3/</loc>
-<lastmod>2016-03-23T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>/blog/2016/welcome-to-jekyll-copy-2/</loc>
-<lastmod>2016-03-23T00:00:00-07:00</lastmod>
-</url>
-<url>
-<loc>/blog/2016/lorem-ipsum/</loc>
-<lastmod>2016-03-22T00:00:00-07:00</lastmod>
+<loc>/trips/</loc>
 </url>
 <url>
 <loc>/blog/</loc>
@@ -37,7 +16,16 @@
 <loc>/kitchen-sink/</loc>
 </url>
 <url>
+<loc>/publications/</loc>
+</url>
+<url>
+<loc>/research/</loc>
+</url>
+<url>
 <loc>/samplepage/</loc>
+</url>
+<url>
+<loc>/trips/</loc>
 </url>
 <url>
 <loc>/portfolio/ccnx</loc>
