@@ -10,10 +10,12 @@
   <!-- facebook OG -->
   <meta property="og:image" content="{{ site.data.wide.img }}" />
   <meta property="og:title" content="{{ page.title }}"/>
+  <meta property='og:site_name' content='Tony Cannistra' />
+
   {% if page.layout == "post" %}
   <meta property='og:type' content='article' />
   <meta property='article:author' content='https://www.facebook.com/tony.cannistra' />
-  <meta property='og:site_name' content='Tony Cannistra' />
+  <meta property="og:description" content="{{ page.description }}"/>
   {% endif %}
 
 
@@ -24,7 +26,6 @@
   <link rel="apple-touch-icon-precomposed" href="/assets/img/icons/apple-touch-icon-precomposed.png">
   <link rel="stylesheet" href="/assets/css/app.css">
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
-  <meta property="og:type" content=
 
 </head>
 <body>
