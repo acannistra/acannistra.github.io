@@ -20,7 +20,7 @@ I am a member of the Big Data/Data Science [IGERT traineeship](http://escience.w
 
 Before beginning as a graduate student, I was a Naturalist at the [Aspen Center for Environmental Studies (ACES)](http://www.aspennature.org). During my time there, I became interested in the seasonal changes in flow of the rivers that make up the Roaring Fork watershed. A couple of small projects came out of this:
 
-**["Natural Flow" Analysis](http://anthonycannistra.com/riverdiversion/)**: the Roaring Fork River has several transbasin diversions which move water from the RF watershed to the Eastern Slope of Colorado, which contains 80% of the state's population and 20% of the available water resources. 
+**["Natural Flow" Analysis](http://anthonycannistra.com/riverdiversion/)**: the Roaring Fork River has several transbasin diversions which move water from the RF watershed to the Eastern Slope of Colorado, which contains 80% of the state's population and 20% of the available water resources. I was interested in estimating the "natural" flow of the Roaring Fork River––that is, the rates of flow of the river if the diversions were never created. 
 
 **[Stillwater Preserve "Sponge Effect"](http://www.aspennature.org/blog/native-flows-and-functions-north-star-nature-preserve)**: East of Aspen, there is a large wetland called the Stillwater Nature Preserve, and it has many important ecological functions for the river ecosystem. We were interested in looking at the modulation effects that the nature preserve has on the flow of the river, so I did a little streamflow analysis and plotting and wrote this blog post together with Director of Naturalist Programs Jim Kravitz. 
 
