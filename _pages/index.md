@@ -10,3 +10,11 @@ I live in Seattle, Washington. I'm an outdoor enthusiast and naturalist. I like 
 
 You can e-mail me at [tony.cannistra@gmail.com](mailto:tony.cannistra@gmail.com).
 
+<div class="row align-middle" style="max-height: 150px">
+    <div class="medium-6 columns">  
+        <img style="display: block; margin: auto; max-height: 100%;" src="/assets/img/uwbio_logo.png" alt="UW Biology Logo">
+    </div>
+    <div class="medium-6 columns" style="height: 150px;">
+        <img style="display: block; margin: auto; max-height: 100%;" src="/assets/img/escience_square.jpg" alt="eScience Logo">
+    </div>
+</div>
