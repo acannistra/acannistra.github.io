@@ -10,8 +10,8 @@
 - link: Trips
   url: /trips/
 
-- link: Portfolio
-  url: /portfolio
+# - link: Portfolio
+#   url: /portfolio
 
 - link: CV
   url: /assets/AnthonyCannistraCV.pdf

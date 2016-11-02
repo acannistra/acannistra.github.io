@@ -42,7 +42,9 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
 
-
+h1,h2,h3,h4,p {
+  font-family: system, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Lucida Grande", sans-serif;
+}
 
 //
 // 4. Foundation
