@@ -9,7 +9,7 @@ Hello all! I'm Tony, and you're on my brand-new website! I just redesigned it, a
 
 The old website looked something like this: 
 
-![old_site](https://dl.dropboxusercontent.com/s/50o3z5m68rc7xby/Screenshot%202016-09-23%2011.50.21.png?dl=0)
+![old_site](https://photos-5.dropbox.com/t/2/AADsWkJPFTYE52RAGFe5zDg4PhKfNbqXtElY-HH1ladA2g/12/5654551/png/32x32/1/_/1/2/Screenshot%202016-09-23%2011.50.21.png/ENPsnQQY67A2IAcoBw/iQNVQvfNxEJTIs6X_Jl75NGtMxAaTDMpjRn0dp3nYks?size=2048x1536&size_mode=3)  
 
 Nice enough, but I wanted a layout that was a little more flexible. I knew I wanted to write a blog, and I didn't really like the sidebar layout of the old site. I also wanted the site to be mobile-friendly, and I needed it to not be a total pain to update or change. Basically: I was looking for a mobile-friendly, modular, blog-enabled site that was beautifully designed. With that in mind, I started designing. 
 
@@ -19,7 +19,7 @@ When I began to look for design inspiration for this site, I started by examinin
 
 To remedy the rather suffering æsthetic of the scientific researchers' pages, I started looking at news outlets for inspiration, specifically those oriented toward science news. I found the jackpot on [Science Friday's](http//www.sciencefriday.org) website––a weekly science podcast. It looks like this: 
 
-![science friday site](https://dl.dropboxusercontent.com/s/p6pd62fz9pxkcbi/Screenshot%202016-09-23%2012.08.48.png?dl=0)
+![science friday site](https://photos-4.dropbox.com/t/2/AAAdCGHV4Jok447IhSi1JSaadKCWAldSRBYIGi33mIsh_Q/12/5654551/png/32x32/1/_/1/2/Screenshot%202016-09-23%2012.08.48.png/ENPsnQQY8bs2IAcoBw/t0fCnaYFCYZAQkFiHul9BytxYzAzjkJg2rYHTP2Ax7E?size=2048x1536&size_mode=3)
 
 I really liked how the page was bordered by a nice bright color, and I particularly liked the way that the blog format of the site was set up. The use of rectangles and negative space was nice too, so I decided to model the site off of this idea, using some of my own touches.
 
