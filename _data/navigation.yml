@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "about"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "research"
+    url: "/research"
+  - title: "blog"
+    url: "http://blog.anthonycannistra.com"
