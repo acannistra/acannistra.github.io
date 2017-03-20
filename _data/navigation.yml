@@ -4,5 +4,7 @@ main:
     url: /about
   - title: "research"
     url: "/research"
+  - title: "portfolio"
+    url: "/portfolio/"
   - title: "blog"
     url: "http://blog.anthonycannistra.com"
