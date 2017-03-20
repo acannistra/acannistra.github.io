@@ -1,12 +1,14 @@
 ---
 author_profile: true
+title: Research at UW Biology
 permalink: /research/
 layout: single
+header:
+    image: /images/uw.jpg
 ---
-
 ### Current Projects:
-*   Species distribution modeling via gaussian random fields.
-*   Non-linear modeling of trait influence on climate-induced range shifts. 
+*   [Species distribution modeling via gaussian random fields.](https://github.com/HuckleyLab/SDMpriors)
+*   [Non-linear modeling of trait influence on climate-induced range shifts.](https://github.com/HuckleyLab/cc_traits)
 *   Implications of seasonality and changing environment to fitness in insects.
 *   Getting used to graduate school!
 
