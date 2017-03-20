@@ -5,6 +5,8 @@ layout: single
 ---
 
 ### Current Projects:
+*   Species distribution modeling via gaussian random fields.
+*   Non-linear modeling of trait influence on climate-induced range shifts. 
 *   Implications of seasonality and changing environment to fitness in insects.
 *   Getting used to graduate school!
 
