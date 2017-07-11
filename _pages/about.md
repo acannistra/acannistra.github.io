@@ -11,4 +11,6 @@ I live in Seattle, Washington. I'm an outdoor enthusiast and naturalist. I like 
 
 You can e-mail me at [tonycan@uw.edu](mailto:tonycan@uw.edu).
 
+[My CV.](/assets/TonyCannistraCV.pdf)
+
 ![](/assets/images/cig_logo.png){: width="100"  height="100"} ![](https://info.nols.edu/hubfs/Logos/NOLS_WM_BADGE_CREDENTIAL-WILDERNESS%20FIRST%20AID.png){: width="150"  height="150"}

@@ -4,7 +4,7 @@ title: Research at UW Biology
 permalink: /research/
 layout: single
 header:
-    image: /images/uw.jpg
+    image: http://media4.trover.com/T/515c88653230433812000016/fixedw_large_4x.jpg
 ---
 ### Current Projects:
 *   [Species distribution modeling via gaussian random fields.](https://github.com/HuckleyLab/SDMpriors)
@@ -29,3 +29,5 @@ Before beginning as a graduate student, I was a Naturalist at the [Aspen Center 
 **[Stillwater Preserve "Sponge Effect"](http://www.aspennature.org/blog/native-flows-and-functions-north-star-nature-preserve)**: East of Aspen, there is a large wetland called the Stillwater Nature Preserve, and it has many important ecological functions for the river ecosystem. We were interested in looking at the modulation effects that the nature preserve has on the flow of the river, so I did a little streamflow analysis and plotting and wrote this blog post together with Director of Naturalist Programs Jim Kravitz. 
 
 **[Temperature Inversion tool](https://github.com/acannistra/valleyinversion)**: until living in Aspen, I had never lived in a place where it was possible for temperatures at the tops of mountains to be *higher* than temperatures at lower elevations, but it is very common in mountain valleys like the one that Aspen is in. This is called *temperature inversion*, and I wrote a small tool in Python to plot several different weather stations' temperature readings for the same time period. When used along an elevational gradient, it allows one to see an inversion occurring (or not). 
+
+![](/assets/images/cig_logo.png){: width="100"  height="100"} ![](https://info.nols.edu/hubfs/Logos/NOLS_WM_BADGE_CREDENTIAL-WILDERNESS%20FIRST%20AID.png){: width="150"  height="150"}
