@@ -20,6 +20,10 @@ I work to enhance the quality and resolution of these predictions and to increas
 
 I am a member of the Big Data/Data Science [IGERT traineeship](http://escience.washington.edu/education/phd/igert-in-big-data-and-data-science/) through the [eScience Institute](http://escience.washington.edu) at the University of Washington.
 
+### Publications
+
+Lauren B. Buckley, Andrew J. Arakaki, **Anthony F. Cannistra**, Heather M. Kharouba, Joel G. Kingsolver; Insect Development, Thermal Plasticity and Fitness Implications in Changing, Seasonal Environments. Integr Comp Biol 2017 icx032. doi: [10.1093/icb/icx032](https://doi.org/10.1093/icb/icx032)
+
 ### Past Work
 
 Before beginning as a graduate student, I was a Naturalist at the [Aspen Center for Environmental Studies (ACES)](http://www.aspennature.org). During my time there, I became interested in the seasonal changes in flow of the rivers that make up the Roaring Fork watershed. A couple of small projects came out of this:
