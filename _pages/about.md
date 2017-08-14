@@ -14,3 +14,6 @@ You can e-mail me at [tonycan@uw.edu](mailto:tonycan@uw.edu).
 [My CV.](/assets/TonyCannistraCV.pdf)
 
 ![](/assets/images/cig_logo.png){: width="100"  height="100"} ![](https://info.nols.edu/hubfs/Logos/NOLS_WM_BADGE_CREDENTIAL-WILDERNESS%20FIRST%20AID.png){: width="150"  height="150"}
+
+Recent [Instagram](http://instagram.com/tony_cannistra) photos:
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/dabc4c328a1f5562ab62ff4ed0f5751c.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
