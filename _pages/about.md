@@ -17,4 +17,4 @@ You can e-mail me at [tonycan@uw.edu](mailto:tonycan@uw.edu).
 
 Recent [Instagram](http://instagram.com/tony_cannistra) photos:
 
-<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/dabc4c328a1f5562ab62ff4ed0f5751c.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
+<!-- LightWidget WIDGET --><script src="//lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/a3d521bdd5175396ba5aa8ace53481c4.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width: 100%; border: 0; overflow: hidden;"></iframe>
