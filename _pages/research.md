@@ -18,7 +18,7 @@ My research aims to use a wide range of heterogeneous data sources coupled with 
 
 I work to enhance the quality and resolution of these predictions and to increase the ease of use, transparency, and adaptability of this research to propel scientific discovery in the field. 
 
-I am a member of the Big Data/Data Science [IGERT traineeship](http://escience.washington.edu/education/phd/igert-in-big-data-and-data-science/) through the [eScience Institute](http://escience.washington.edu) at the University of Washington.
+I am a member of the Big Data/Data Science [IGERT traineeship](http://escience.washington.edu/education/phd/igert-in-big-data-and-data-science/) through the [eScience Institute](http://escience.washington.edu) at the University of Washington. I have also been awarded a [Graduate Research Fellowship](http://www.nsfgrfp.org) from the National Science Foundation. If you're interested in my GRFP application, you can find it [here](/assets/cannistra-grfp-2017.pdf) (reviews are [here](/assets/cannistra-nsf-grfp-reviews.pdf)).
 
 ### Publications
 
