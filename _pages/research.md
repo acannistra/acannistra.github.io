@@ -7,6 +7,7 @@ header:
     image: http://media4.trover.com/T/515c88653230433812000016/fixedw_large_4x.jpg
 ---
 ### Current Projects:
+*   [Assessing High-Resolution Satellite Imagery for Detailed Snow Cover Estimation](https://github.com/acannistra/planet-snowcover)
 *   [Species distribution modeling via gaussian random fields.](https://github.com/HuckleyLab/SDMpriors)
 *   [Non-linear modeling of trait influence on climate-induced range shifts.](https://github.com/HuckleyLab/cc_traits)
 *   Implications of seasonality and changing environment to fitness in insects.
@@ -20,7 +21,15 @@ I work to enhance the quality and resolution of these predictions and to increas
 
 I am a member of the Big Data/Data Science [IGERT traineeship](http://escience.washington.edu/education/phd/igert-in-big-data-and-data-science/) through the [eScience Institute](http://escience.washington.edu) at the University of Washington. I have also been awarded a [Graduate Research Fellowship](http://www.nsfgrfp.org) from the National Science Foundation. If you're interested in my GRFP application, you can find it [here](/assets/cannistra-grfp-2017.pdf) (reviews are [here](/assets/cannistra-nsf-grfp-reviews.pdf)).
 
+<img src="/assets/images/nsf-logo.png" width="100"/>
+
 ### Publications
+
+*2018*
+
+Lauren B. Buckley, **Anthony F. Cannistra**, P. Aji John; "Leveraging organismal biology to forecast the effects of climate change." Integr Comp Biol 2018, *in press*.
+
+*2017*
 
 Lauren B. Buckley, Andrew J. Arakaki, **Anthony F. Cannistra**, Heather M. Kharouba, Joel G. Kingsolver; Insect Development, Thermal Plasticity and Fitness Implications in Changing, Seasonal Environments. Integr Comp Biol 2017 icx032. doi: [10.1093/icb/icx032](https://doi.org/10.1093/icb/icx032)
 
