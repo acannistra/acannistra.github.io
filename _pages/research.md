@@ -33,6 +33,18 @@ Lauren B. Buckley, **Anthony F. Cannistra**, P. Aji John; "Leveraging organismal
 
 Lauren B. Buckley, Andrew J. Arakaki, **Anthony F. Cannistra**, Heather M. Kharouba, Joel G. Kingsolver; Insect Development, Thermal Plasticity and Fitness Implications in Changing, Seasonal Environments. Integr Comp Biol 2017 icx032. doi: [10.1093/icb/icx032](https://doi.org/10.1093/icb/icx032)
 
+### Presentations
+
+*2018*
+
+**Anthony F. Cannistra**, Kavya Pradhan. "Assessing High-Resolution Cubesat Imagery for Detailed Snow Cover Estimation: An Ecological Perspective." Lightning Talk. UW Data Science Summit. *Honorable Mention*
+
+*2017*
+
+**Anthony F Cannistra**, Randall J. Levesque. "Tools for Visualizing Geospatial Data in Python: A Hands-On Tutorial." Tutorial. GeoHackWeek 2017, eScience Institute, University of Washington, Seattle, WA.
+
+**Anthony F. Cannistra**, Lauren B. Buckley. "Improving range shift predictions: Enhancing the power of traits." Poster. Ecological Society of America Meeting, Portland, OR.
+
 ### Past Work
 
 Before beginning as a graduate student, I was a Naturalist at the [Aspen Center for Environmental Studies (ACES)](http://www.aspennature.org). During my time there, I became interested in the seasonal changes in flow of the rivers that make up the Roaring Fork watershed. A couple of small projects came out of this:
@@ -42,5 +54,3 @@ Before beginning as a graduate student, I was a Naturalist at the [Aspen Center 
 **[Stillwater Preserve "Sponge Effect"](http://www.aspennature.org/blog/native-flows-and-functions-north-star-nature-preserve)**: East of Aspen, there is a large wetland called the Stillwater Nature Preserve, and it has many important ecological functions for the river ecosystem. We were interested in looking at the modulation effects that the nature preserve has on the flow of the river, so I did a little streamflow analysis and plotting and wrote this blog post together with Director of Naturalist Programs Jim Kravitz. 
 
 **[Temperature Inversion tool](https://github.com/acannistra/valleyinversion)**: until living in Aspen, I had never lived in a place where it was possible for temperatures at the tops of mountains to be *higher* than temperatures at lower elevations, but it is very common in mountain valleys like the one that Aspen is in. This is called *temperature inversion*, and I wrote a small tool in Python to plot several different weather stations' temperature readings for the same time period. When used along an elevational gradient, it allows one to see an inversion occurring (or not). 
-
-![](/assets/images/cig_logo.png){: width="100"  height="100"} ![](https://info.nols.edu/hubfs/Logos/NOLS_WM_BADGE_CREDENTIAL-WILDERNESS%20FIRST%20AID.png){: width="150"  height="150"}
