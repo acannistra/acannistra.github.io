@@ -27,11 +27,13 @@ I am a member of the Big Data/Data Science [IGERT traineeship](http://escience.w
 
 *2018*
 
-Lauren B. Buckley, **Anthony F. Cannistra**, P. Aji John; "Leveraging organismal biology to forecast the effects of climate change." Integr Comp Biol 2018, *in press*.
+Buckley, L.B., **Cannistra, A.F.** and John, A., 2018. Leveraging organismal biology to forecast the effects of climate change. Integrative and Comparative Biology. doi:[10.1093/icb/icy018](https://doi.org/10.1093/icb/icy018)
+
+Leiserson, M.D.M., Fan, J., **Cannistra, A.F.,** Fried, I., Lim, T.,  Schaffner, T., Crovella, M., and Hescott, B. (2018) A Multi-Species Functional Embedding Integrating Sequence and Network Structure. In: Proceedings of RECOMB. Paris, France. [pdf](http://www.cs.bu.edu/faculty/crovella/paper-archive/recomb18-handl.pdf) <small>(undergraduate research)</small>
 
 *2017*
 
-Lauren B. Buckley, Andrew J. Arakaki, **Anthony F. Cannistra**, Heather M. Kharouba, Joel G. Kingsolver; Insect Development, Thermal Plasticity and Fitness Implications in Changing, Seasonal Environments. Integr Comp Biol 2017 icx032. doi: [10.1093/icb/icx032](https://doi.org/10.1093/icb/icx032)
+Buckley, L.B., Arakaki, A.J., **Cannistra, A.F.,** Kharouba, H.M. and Kingsolver, J.G., 2017. Insect development, thermal plasticity and fitness implications in changing, seasonal environments. Integrative and comparative biology, 57(5), pp.988-998. doi: [10.1093/icb/icx032](https://doi.org/10.1093/icb/icx032)
 
 ### Presentations
 
