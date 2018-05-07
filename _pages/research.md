@@ -8,7 +8,7 @@ header:
 ---
 ### Current Projects:
 *   [Assessing High-Resolution Satellite Imagery for Detailed Snow Cover Estimation](https://github.com/acannistra/planet-snowcover)
-*   [Species distribution modeling via gaussian random fields.](https://github.com/HuckleyLab/SDMpriors)
+*   [Species distribution modeling via gaussian random fields.](https://github.com/acannistra/SDMpriors/)
 *   [Non-linear modeling of trait influence on climate-induced range shifts.](https://github.com/HuckleyLab/cc_traits)
 *   Implications of seasonality and changing environment to fitness in insects.
 *   Getting used to graduate school!
