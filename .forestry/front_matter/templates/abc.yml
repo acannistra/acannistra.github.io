@@ -1,0 +1,10 @@
+---
+label: abc
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: boolean
+  name: author_profile
+  label: author_profile
