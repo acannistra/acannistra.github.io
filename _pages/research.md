@@ -1,21 +1,11 @@
 ---
 author_profile: true
-title: Research at UW Biology
+title: Research
 permalink: /research/
 layout: single
-header:
-    image: https://lh3.googleusercontent.com/vPsiu292Eekf8lmNs7vEQMQq-tlZt3N9Xouq2BlXstaBd36z3lJhIXR7AUrJ-leV-ptHTobW-0HVQXIW9oQgw2vN_rSHB9aAXkHklMAJL-FampJZCWZ4O6POv0OtoOXoyQC9OjpFT5o=w2400
 ---
-## Current Projects:
-*   [Assessing High-Resolution Satellite Imagery for Detailed Snow Cover Estimation](https://github.com/acannistra/planet-snowcover)
-*   [Species distribution modeling via gaussian random fields.](https://github.com/acannistra/SDMpriors/)
-*   [Non-linear modeling of trait influence on climate-induced range shifts.](https://github.com/HuckleyLab/cc_traits)
-*   Implications of seasonality and changing environment to fitness in insects.
-*   Getting used to graduate school!
 
-## Research Interests <small> (<a href="/assets/TonyCannistraCV.pdf">CV</a>)</small>
-
-My research aims to use a wide range of heterogeneous data sources coupled with machine learning approaches to predict the responses of biological organisms and whole ecosystems to climate change.
+My research aims to investigate the impacts of environmental change on ecological systems by integrating organismal, community, and whole-ecosystem scales. I do this work by leveraging open, heterogeneous data sources and modern modeling methodologies. 
 
 I work to enhance the quality and resolution of these predictions and to increase the ease of use, transparency, and adaptability of this research to propel scientific discovery in the field.
 
@@ -23,13 +13,21 @@ Applying scientific research techniques and insights to conservation strategy is
 
 I am a member of the Big Data/Data Science [IGERT traineeship](http://escience.washington.edu/education/phd/igert-in-big-data-and-data-science/) through the [eScience Institute](http://escience.washington.edu) at the University of Washington. I have also been awarded a [Graduate Research Fellowship](http://www.nsfgrfp.org) from the National Science Foundation. If you're interested in my GRFP application, you can find it [here](/assets/cannistra-grfp-2017.pdf) (reviews are [here](/assets/cannistra-nsf-grfp-reviews.pdf)).
 
-<img src="/assets/images/nsf-logo.png" width="100"/>
+
+
+## Current Projects:
+*   [Assessing High-Resolution Satellite Imagery for Detailed Snow Cover Estimation](https://github.com/acannistra/planet-snowcover)
+*   [Species distribution modeling via gaussian random fields.](https://github.com/acannistra/SDMpriors/)
+*   [Non-linear modeling of trait influence on climate-induced range shifts.](https://github.com/HuckleyLab/cc_traits)
+*   Implications of seasonality and changing environment to fitness in insects.
+*   Getting used to graduate school!
+
 
 ## Publications
 
 *2019*
 
-**Cannistra, A.F.** and Buckley, L.B., 2019. Improving range shift predictions: enhancing the power of traits. Global Change Biology. *Under review*. 
+**Cannistra, A.F.** and Buckley, L.B., 2019. Improving range shift predictions: enhancing the power of traits. Global Change Biology. *Under review*.
 
 *2018*
 
