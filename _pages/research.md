@@ -5,39 +5,27 @@ permalink: /research/
 layout: single
 ---
 
-My research aims to investigate the impacts of environmental change on ecological systems by integrating organismal, community, and whole-ecosystem scales. I do this work by leveraging open, heterogeneous data sources and modern modeling methodologies. 
+My research aims to investigate the impacts of environmental change on ecological systems by integrating organismal, community, and whole-ecosystem scales. I'm also interested in the effect of public policy on land, water, and wildlife conservation. I do this work by leveraging open, heterogeneous data sources and modern modeling methodologies. 
 
 I work to enhance the quality and resolution of these predictions and to increase the ease of use, transparency, and adaptability of this research to propel scientific discovery in the field.
 
 Applying scientific research techniques and insights to conservation strategy is another focus of my work. Most recently I held a position as a Data Analyst Intern on the Impact Team at Paul Allen's [Vulcan](http://www.vulcan.com/), where I worked with the [Skylight](http://www.skylight.global/) project to better understand patterns of illegal fishing in today's oceans using satellite-derived insights.
 
-I am a member of the Big Data/Data Science [IGERT traineeship](http://escience.washington.edu/education/phd/igert-in-big-data-and-data-science/) through the [eScience Institute](http://escience.washington.edu) at the University of Washington. I have also been awarded a [Graduate Research Fellowship](http://www.nsfgrfp.org) from the National Science Foundation. If you're interested in my GRFP application, you can find it [here](/assets/cannistra-grfp-2017.pdf) (reviews are [here](/assets/cannistra-nsf-grfp-reviews.pdf)).
+During my Ph.D. I was a member of the Big Data/Data Science [IGERT traineeship](http://escience.washington.edu/education/phd/igert-in-big-data-and-data-science/) through the [eScience Institute](http://escience.washington.edu) at the University of Washington. I was also awarded a [Graduate Research Fellowship](http://www.nsfgrfp.org) from the National Science Foundation. If you're interested in my GRFP application, you can find it [here](/assets/cannistra-grfp-2017.pdf) (reviews are [here](/assets/cannistra-nsf-grfp-reviews.pdf)).
 
 
 
-## Current Projects:
+## Doctoral Projects:
 *   [Assessing High-Resolution Satellite Imagery for Detailed Snow Cover Estimation](https://github.com/acannistra/planet-snowcover)
-*   [Species distribution modeling via gaussian random fields.](https://github.com/acannistra/SDMpriors/)
+*   [Seasonal and latitudinal effects of marine heatwaves on phytoplankton](https://github.com/HuckleyLab/phyto-mhw)
 *   [Non-linear modeling of trait influence on climate-induced range shifts.](https://github.com/HuckleyLab/cc_traits)
-*   Implications of seasonality and changing environment to fitness in insects.
-*   Getting used to graduate school!
+*   [Species distribution modeling via gaussian random fields.](https://github.com/acannistra/SDMpriors/)
 
+[Dissertation](https://www.dropbox.com/s/53hkdu843dh2gu2/Cannistra_Dissertation_15June.pdf?dl=1)
 
 ## Publications
 
-*2019*
-
-**Cannistra, A.F.** and Buckley, L.B., 2019. Improving range shift predictions: enhancing the power of traits. Global Change Biology. *Under review*.
-
-*2018*
-
-Buckley, L.B., **Cannistra, A.F.** and John, A., 2018. Leveraging organismal biology to forecast the effects of climate change. Integrative and Comparative Biology. doi:[10.1093/icb/icy018](https://doi.org/10.1093/icb/icy018)
-
-Leiserson, M.D.M., Fan, J., **Cannistra, A.F.,** Fried, I., Lim, T.,  Schaffner, T., Crovella, M., and Hescott, B. (2018) A Multi-Species Functional Embedding Integrating Sequence and Network Structure. In: Proceedings of RECOMB. Paris, France. [pdf](http://www.cs.bu.edu/faculty/crovella/paper-archive/recomb18-handl.pdf) <small>(undergraduate research)</small>
-
-*2017*
-
-Buckley, L.B., Arakaki, A.J., **Cannistra, A.F.,** Kharouba, H.M. and Kingsolver, J.G., 2017. Insect development, thermal plasticity and fitness implications in changing, seasonal environments. Integrative and comparative biology, 57(5), pp.988-998. doi: [10.1093/icb/icx032](https://doi.org/10.1093/icb/icx032)
+_Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=Qmp_x2MAAAAJ&hl=en)_
 
 ## Presentations & Tutorials
 
