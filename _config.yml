@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Anthony F. Cannistra"
 title_separator          : "-"
 name                     : "Tony Cannistra"
-description              : "Ecologist, Data Scientist, Naturalist."
+description              : "Ecologist, Software Engineer, Naturalist."
 url                      : "//anthonycannistra.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,7 +81,7 @@ author:
   avatar           : "/images/headshot.jpg"
   bio              : "Ecologist, Data Scientist, Naturalist."
   location         : "Seattle, WA"
-  email            : tonycan@uw.edu
+  email            : tony.cannistra@gmail.com
   uri              :
   bitbucket        :
   codepen          :
@@ -178,7 +178,7 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
