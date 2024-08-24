@@ -1,15 +1,3 @@
-<div class='title-container' >
-    <div>
-        <h1>Tony Cannistra, Ph.D.</h1>
-        <ul>
-            <li><a href="mailto:tony.cannistra@gmail.com">tony.cannistra@gmail.com</a></li>
-            <li><a href="https://linkedin.com/in/tonycannistra">Linkedin</a></li>
-            <li><a href="https://github.com/acannistra">GitHub</a></li>
-            <li><a href="assets/Tony-Cannistra-Resume-2024B.pdf">Resume</a></li>
-        </ul>
-    </div>
-    <img style="max-width: 100px; width: 20vw" src='assets/headshot.jpg' />
-</div>
 
 <div><b>Senior Software Engineer</b> – <a target="_" href="https://www.onxmaps.com">onXmaps</a></div>
 <div><b>Owner</b> – <a target="_" href="https://cascadecarto.org">Cascade Cartographics</a></div>

@@ -8,7 +8,21 @@
     <!-- {{ partial "header.html" . }} -->
 
     <div class="index_content">
-      
+      <div class='title-container' >
+          <div>
+              <h1>Tony Cannistra, Ph.D.</h1>
+              <ul>
+                  <li><a href="mailto:tony.cannistra@gmail.com">tony.cannistra@gmail.com</a></li>
+                  <li><a href="https://linkedin.com/in/tonycannistra">Linkedin</a></li>
+                  <li><a href="https://github.com/acannistra">GitHub</a></li>
+                  <li><a href="assets/Tony-Cannistra-Resume-2024B.pdf">Resume</a></li>
+              </ul>
+          </div>
+          {{ $image := .Resources.GetMatch "headshot.jpg" }}
+          {{ if $image }}
+              <img style="max-width: 100px; width: 20vw" src='{{ $image.RelPermalink }}' />
+          {{ end }}
+      </div>
       {{ .Content }}
 
       {{ if gt (len ( where .Site.RegularPages "Section" "posts" )) 0 }}
