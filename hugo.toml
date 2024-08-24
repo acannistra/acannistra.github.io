@@ -8,14 +8,12 @@ theme = 'maverick'
   pages = "/:slug"
 
 [params]
-  logo = '/assets/favicon.ico'
-  description = "A minimal hugo theme focus on content"
-  author = 'Calvin Tran'
+  description = "Tony Cannistra, Ph.D"
+  author = 'Tony Cannistra'
 
   [params.comments]
-    enabled = true
-    githubRepo = 'canhtran/maverick'
-    theme = 'github-light'
+    enabled = false
+
 
 
 [menu]
