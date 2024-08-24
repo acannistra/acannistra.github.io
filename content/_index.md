@@ -2,7 +2,7 @@
 <div><b>Senior Software Engineer</b> – <a target="_" href="https://www.onxmaps.com">onXmaps</a></div>
 <div><b>Owner</b> – <a target="_" href="https://cascadecarto.org">Cascade Cartographics</a></div>
 
-My current work focuses on building highly performant geospatial data processing and delivery systems for a leading outdoor recreation mapping company, onXmaps. I also provide geospatial analytics consulting and cartography services via [Cascade Cartographics](https://www.cascadecarto.org).
+My current work focuses on building highly performant geospatial data processing and delivery systems for a leading outdoor recreation mapping company, onXmaps. I also provide geospatial analytics consulting and cartography services via [Cascade Cartographics](https://cascadecarto.org).
 
 I enjoy scientific research at the myriad intersections of ecology, climate change, earth science, social science, and public policy. ([Google Scholar](https://scholar.google.com/citations?user=Qmp_x2MAAAAJ&hl=en))
 
