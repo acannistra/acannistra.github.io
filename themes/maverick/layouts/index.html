@@ -19,6 +19,7 @@
               </ul>
           </div>
           {{ $image := .Resources.GetMatch "headshot.jpg" }}
+          {{ $image = $image.Resize "200x webp" }}
           {{ if $image }}
               <img style="max-width: 100px; width: 20vw" src='{{ $image.RelPermalink }}' />
           {{ end }}
