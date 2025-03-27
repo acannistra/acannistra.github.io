@@ -1,5 +1,5 @@
 
-<div><b>Senior Software Engineer</b> – <a target="_" href="https://www.onxmaps.com">onXmaps</a></div>
+<div><b>Staff Software Engineer</b> – <a target="_" href="https://www.onxmaps.com">onXmaps</a></div>
 <div><b>Owner</b> – <a target="_" href="https://cascadecarto.org">Cascade Cartographics</a></div>
 
 My current work focuses on building highly performant geospatial data processing and delivery systems for a leading outdoor recreation mapping company, onXmaps. I also provide geospatial analytics consulting and cartography services via [Cascade Cartographics](https://cascadecarto.org).
